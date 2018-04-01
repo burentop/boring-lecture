@@ -14,7 +14,7 @@ _This is a very simple website used to reinforce what I've learned in HTML, CSS 
 
 ## View the website
 
-_http://burentop.github.io/boring_lecture_
+_http://burentop.github.io/boring-lecture_
 
 ## Known Bugs
 
