@@ -1,12 +1,12 @@
 # _Boring Lecture_
 
-#### _A simple webpage as I learn HTML, April 1, 2018_
+#### _A simple webpage as I learn HTML, April 4, 2018_
 
 #### By _**Brent Perry**_
 
 ## Description
 
-_This is a very simple website used to reinforce what I've learned in HTML, CSS and Git._
+_This is a very simple website used to reinforce what I've learned in jQuery._
 
 ## Setup/Installation Requirements
 
@@ -22,6 +22,8 @@ _None_
 
 ## Technologies Used
 
+* _JavaScript_
+* _jQuery_
 * _HTML_
 * _CSS_
 
